@@ -10,3 +10,11 @@ change depending on the selection.
 
 ## Invoice
 ![Invoice for a custom cat tree](https://i.ibb.co/nkt2ZFW/cat-tree-orders-1.png)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
