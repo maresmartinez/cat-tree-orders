@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	 version="3.1">
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <servlet>
+        <servlet-name>OrderCustomTree</servlet-name>
+        <servlet-class>ca.sheridancollege.marmarie.servlets.OrderCustomTree</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OrderCustomTree</servlet-name>
+        <url-pattern>/OrderCustomTree</url-pattern>
+    </servlet-mapping>
+    <error-page>
+        <error-code>404</error-code>
+        <location>/errors/error404.jsp</location>
+    </error-page>
+    <error-page>
+        <exception-type>java.lang.Throwable</exception-type>
+        <location>/errors/exception.jsp</location>
+    </error-page>
+</web-app>
