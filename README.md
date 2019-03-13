@@ -6,7 +6,7 @@ have up to 4 levels, and other extra options. The final price will
 change depending on the selection.
 
 ## Form
-![Order form for a custom cat tree](https://ibb.co/FbP1DH4)
+![Order form for a custom cat tree](https://i.ibb.co/DDqFRrf/cat-tree-orders-0.png)
 
 ## Invoice
-![Invoice for a custom cat tree](https://ibb.co/MNQTWmX)
+![Invoice for a custom cat tree](https://i.ibb.co/nkt2ZFW/cat-tree-orders-1.png)
